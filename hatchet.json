@@ -61,7 +61,7 @@
   ],
   "rails42": [
     "sharpstone/rails42_scaffold",
-    "fjg/rails42_sprockets3_manifest"
+    "sharpstone/rails42_sprockets3_manifest"
   ],
   "rails5": [
     "sharpstone/rails5"
